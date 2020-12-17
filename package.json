@@ -1,6 +1,10 @@
 {
   "name": "robofriends",
-  "homepage": "https://huongnguyen08.github.io/robofriends-React-hooks/",
+<<<<<<< HEAD
+  "homepage": "https://huongnguyen08.github.io/robofriends-React-hooks",
+=======
+  "homepage": "https://huongnguyen08.github.io/robofriends-React-hooks",
+>>>>>>> 8072bcd37514efa8bae4de9e1a75e804d02f373a
   "version": "0.1.0",
   "private": true,
   "dependencies": {
